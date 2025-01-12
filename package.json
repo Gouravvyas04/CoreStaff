@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Gouravvyas04.github.io/Corestaff",
+  "homepage": "https://Gouravvyas04.github.io/EManageX",
   "name": "emanagex",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite --host",
-    "build": "vite build",
+    "build": "react-scripts build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
