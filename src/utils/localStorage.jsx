@@ -201,7 +201,7 @@ const employees = [
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "firstName": "Kuldeep Lakhani",
         "email": "kuldeep@6.com",
         "password": "102",
@@ -242,6 +242,21 @@ const employees = [
                 "taskDate": "2024-10-12",
                 "category": "Support"
             }
+        ]
+    },
+    {
+        "id": 7,
+        "firstName": "Chanchal Pareek",
+        "email": "chanchal@7.com",
+        "password": "112",
+        "taskCounts": {
+            "active": 0,
+            "newTask": 0,
+            "completed": 1,
+            "failed": 0
+        },
+        "tasks": [
+            
         ]
     }
 ];
