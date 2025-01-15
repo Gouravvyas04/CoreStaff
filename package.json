@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Gouravvyas04/CoreStaff",
+  "homepage": "https://gouravvyas04.github.io/CoreStaff/",
   "name": "corestaff",
   "private": true,
   "version": "0.0.0",
@@ -16,7 +16,8 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-hot-toast": "^2.4.1"
+    "react-hot-toast": "^2.4.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
